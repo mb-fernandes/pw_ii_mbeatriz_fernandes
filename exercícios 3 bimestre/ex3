@@ -1,0 +1,9 @@
+<?php
+
+    $numeros = array(25, 15, 5);
+
+    echo $numeros[2];
+
+?>
+
+
