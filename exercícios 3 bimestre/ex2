@@ -1,9 +1,0 @@
-<?php
-
-    $base = 10;
-    $altura = 15;
-    $area = ($base*$altura)/2;
-
-    echo "A base de seu triangulo é ", $base, " e a altura é ", $altura, ". A área do seu triângulo será de: ", $area;
-
-?>
